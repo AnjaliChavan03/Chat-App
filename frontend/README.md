@@ -12,6 +12,17 @@ CLOUDINARY_API_SECRET=...
 NODE_ENV=development
 ```
 
+### Start backend
+
+```shell
+npm start
+```
+
+### Start fronetnd
+
+```shell
+npm run dev
+```
 ### Build the app
 
 ```shell
